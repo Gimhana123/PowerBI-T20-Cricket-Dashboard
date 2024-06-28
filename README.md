@@ -5,6 +5,11 @@ Dive into T20 cricket stats with this Power BI dashboard. Visualize player perfo
 
 This project encompasses dashboards focusing on different player roles in cricket matches. Each dashboard analyzes specific parameters to provide insights into player performance and strategy.
 
+<div style="text-align: center;">
+  <img src="https://github.com/Gimhana123/PowerBI-T20-Cricket-Dashboard/blob/main/Screenshot%20(886).png?raw=true" alt="Description of the image">
+</div>
+
+
 ### Dashboards Overview
 
 1. **Openers Dashboard**
